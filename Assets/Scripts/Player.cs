@@ -4,7 +4,7 @@ using UnityEditor.Callbacks;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public int moveH;
     public int velocidade;
